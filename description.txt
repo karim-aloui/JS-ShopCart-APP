@@ -1,0 +1,14 @@
+1 - Add to Cart
+2 - remove from Cart
+3 - Login | register | Logout
+4 - filter by size 
+5 - search by Name
+6 - add to Favorite
+7 - create Product
+8 - edit Product
+9 - remove Product
+10 - don't duplicate items in cart
+11 - product details
+12 - my products
+13 - profile
+14 - edit profile
